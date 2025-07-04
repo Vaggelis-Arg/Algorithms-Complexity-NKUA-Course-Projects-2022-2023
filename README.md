@@ -50,7 +50,6 @@ Analyzes and compares the growth rates of given functions using complexity class
 
 📄 [`description.pdf`](Assignment0/description.pdf)  
 📄 [`solution.pdf`](Assignment0/solution.pdf)  
-💻 [`code/`](Assignment0/code/)
 
 ---
 
